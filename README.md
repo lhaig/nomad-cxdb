@@ -170,4 +170,4 @@ In both modes data survives container restarts but not node failures unless you 
 
 ## License
 
-MPL 2.0
+This Nomad pack deploys CXDB, which is licensed under Apache 2.0
